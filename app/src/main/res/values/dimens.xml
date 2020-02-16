@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gamertagImageSize">220dp</dimen>
+    <dimen name="xboxLiveLogoImageWidth">200dp</dimen>
+    <dimen name="xboxLiveLogoImageHeight">30dp</dimen>
+    <dimen name="bigTextSize">25dp</dimen>
+    <dimen name="bigBoldTextSize">30dp</dimen>
+    <dimen name="emailTextSize">15dp</dimen>
+</resources>

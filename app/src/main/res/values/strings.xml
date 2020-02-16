@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestInterface</string>
+    <string name="bemvindo">Bem-vindo de volta</string>
+    <string name="gamertag">CppXpec</string>
+    <string name="email">carlosaugustogurgel2@gmail.com</string>
+    <string name="entrarContaDiferente"><u>Entrar com uma conta diferente</u></string>
+    <string name="buttonVamosJogar">Vamos jogar!</string>
+
+</resources>
